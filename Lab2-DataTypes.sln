@@ -71,6 +71,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab34-Collection", "Lab34-C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab35-DifferenceBetweenArrayandArraylist", "Lab35-DifferenceBetweenArrayandArraylist\Lab35-DifferenceBetweenArrayandArraylist.csproj", "{5CE2FB9A-EE1A-49BD-B823-2F836A303A80}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab36-StackAndQueue", "Lab35-StackAndQueue\Lab36-StackAndQueue.csproj", "{37A98809-6619-4851-A1C3-CD6D036A06AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab37-SpecializedCollection", "Lab37-SpecializedCollection\Lab37-SpecializedCollection.csproj", "{990C0466-1EE9-40C5-9EDF-A3392FD5200D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +217,14 @@ Global
 		{5CE2FB9A-EE1A-49BD-B823-2F836A303A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CE2FB9A-EE1A-49BD-B823-2F836A303A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CE2FB9A-EE1A-49BD-B823-2F836A303A80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37A98809-6619-4851-A1C3-CD6D036A06AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37A98809-6619-4851-A1C3-CD6D036A06AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37A98809-6619-4851-A1C3-CD6D036A06AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37A98809-6619-4851-A1C3-CD6D036A06AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{990C0466-1EE9-40C5-9EDF-A3392FD5200D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{990C0466-1EE9-40C5-9EDF-A3392FD5200D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{990C0466-1EE9-40C5-9EDF-A3392FD5200D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{990C0466-1EE9-40C5-9EDF-A3392FD5200D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
